@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo_text_size">82sp</dimen>
+    <dimen name="boton_text_size">24sp</dimen>
+    <dimen name="boton_padding_lateral">40dp</dimen>
+</resources>
